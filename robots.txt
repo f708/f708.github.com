@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://f708.github.io/sitemap.xml 
